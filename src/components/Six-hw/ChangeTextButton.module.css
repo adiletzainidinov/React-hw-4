@@ -1,0 +1,10 @@
+.showBtnPapa {
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.showBtnP {
+    font-weight: bold;
+    font-size: 30px;
+}

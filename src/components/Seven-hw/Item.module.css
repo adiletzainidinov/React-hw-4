@@ -1,0 +1,20 @@
+.item p {
+  display: flex;
+  margin-left: 20px;
+  padding: 10px;
+  display: inline;
+}
+
+.item p:hover {
+  background-color: rgba(238, 238, 238, 0.292);
+  border: none;
+  border-radius: 10px;
+}
+
+.item p:active ,.selected {
+  background-color: #f2f7fb;
+  border: none;
+  border-radius: 10px;
+  color: rgba(0, 0, 255, 0.341);
+}
+

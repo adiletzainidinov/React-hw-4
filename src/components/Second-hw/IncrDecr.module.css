@@ -1,0 +1,10 @@
+.incrDecr {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.incrDecr p {
+     font-size: 36px;
+     font-weight: bold;
+}
